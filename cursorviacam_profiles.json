@@ -1,0 +1,28 @@
+{
+    "active_profile": "Deepender",
+    "profiles": {
+        "Deepender": {
+            "rect_padding": 170,
+            "blink_threshold_level": "High",
+            "outer_gap_level": 7,
+            "camera_index": 0,
+            "enable_button_sticking": true,
+            "double_blink_interval": 0.45,
+            "long_blink_threshold": 0.27,
+            "smooth_window_internal": 6,
+            "enable_cursor_highlight": true
+        },
+        "Default": {
+            "rect_padding": 120,
+            "blink_threshold_level": "Low",
+            "outer_gap_level": 4,
+            "camera_index": 0,
+            "enable_button_sticking": true,
+            "double_blink_interval": 0.45,
+            "long_blink_threshold": 0.27,
+            "smooth_window_internal": 6,
+            "enable_cursor_highlight": false
+        }
+    },
+    "tutorial_completed": true
+}
