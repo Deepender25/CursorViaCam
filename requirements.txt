@@ -1,0 +1,13 @@
+# requirements.txt for CursorViaCam
+
+# Core dependencies required for all platforms
+opencv-python
+mediapipe
+PyAutoGUI
+numpy
+PyQt6
+
+# Optional Windows-specific dependency for the "Button Sticking" feature.
+# The following line uses an environment marker so pip will only install
+# this package on Windows systems.
+pywin32 ; sys_platform == 'win32'
