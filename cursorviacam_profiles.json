@@ -2,11 +2,11 @@
     "active_profile": "Deepender",
     "profiles": {
         "Deepender": {
-            "rect_padding": 170,
+            "rect_padding": 175,
             "blink_threshold_level": "High",
             "outer_gap_level": 7,
             "camera_index": 0,
-            "enable_button_sticking": true,
+            "enable_button_sticking": false,
             "double_blink_interval": 0.45,
             "long_blink_threshold": 0.27,
             "smooth_window_internal": 6,
