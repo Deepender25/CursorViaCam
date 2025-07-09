@@ -69,10 +69,10 @@ CursorViaCam is designed as a robust desktop application, primarily built with P
 
 ![Screenshot 2025-07-09 145149](https://github.com/user-attachments/assets/face7226-8dda-4240-a832-cf78fa4ed272)
 
-
 _The main application interface displaying real-time camera feed and tracking controls._
 
-![Placeholder Screenshot 2](https://placehold.co/800x450/1a1a2e/ffffff?text=App+Screenshot+2)
+![Screenshot 2025-07-09 145149](https://github.com/user-attachments/assets/933bea88-9c88-4968-a372-6004b4c6276e)
+
 _A closer look at the settings panel, showing various customization options for cursor behavior and highlighting._
 
 [![Watch Demo Video 1](https://placehold.co/800x450/1a1a2e/c5a8ff?text=Watch+Demo+1)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
