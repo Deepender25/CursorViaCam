@@ -80,14 +80,26 @@ https://github.com/user-attachments/assets/145d55e1-eaa2-4e72-8067-3e85a36fd763
 
 _See CursorViaCam's core head-tracking functionality in action._
 
-[![Watch Demo Video 2](https://placehold.co/800x450/1a1a2e/c5a8ff?text=Watch+Demo+2)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-_A demonstration of the advanced cursor smoothing and adaptive speed features._
 
-[![Watch Demo Video 3](https://placehold.co/800x450/1a1a2e/c5a8ff?text=Watch+Demo+3)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+https://github.com/user-attachments/assets/0b03a912-7c5f-444f-9312-06b324871a20
+
+
+_A demonstration of the advanced cursor smoothing and Left-Click, Double-Click, Scrolling in play._
+
+
+
+https://github.com/user-attachments/assets/b9d12e22-758e-4376-83c3-e6acaeaebef8
+
+
 _Exploring the visual cursor highlighter and its customizable appearance._
 
-[![Watch Demo Video 4](https://placehold.co/800x450/1a1a2e/c5a8ff?text=Watch+Demo+4)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-_Showcasing the "Button Sticking" feature's precision (Windows-specific functionality)._
+
+
+https://github.com/user-attachments/assets/9f21a4f5-7ce0-44a0-a119-5b5f91ea7d68
+
+
+_Showcasing the Intractive Tutorial Feature._
 
 ##  Getting Started
 
