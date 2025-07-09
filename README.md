@@ -75,7 +75,9 @@ _The main application interface displaying real-time camera feed and tracking co
 
 _A closer look at the settings panel, showing various customization options for cursor behavior and highlighting._
 
-[![Watch Demo Video 1](https://placehold.co/800x450/1a1a2e/c5a8ff?text=Watch+Demo+1)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+https://github.com/user-attachments/assets/145d55e1-eaa2-4e72-8067-3e85a36fd763
+
 _See CursorViaCam's core head-tracking functionality in action._
 
 [![Watch Demo Video 2](https://placehold.co/800x450/1a1a2e/c5a8ff?text=Watch+Demo+2)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
