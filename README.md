@@ -125,24 +125,32 @@ These sections are placeholders illustrating the application's functionality. Th
 
 ### 🖼️ Screenshots
 
-https://github.com/user-attachments/assets/face7226-8dda-4240-a832-cf78fa4ed272
+![Screenshot 2025-07-09 145149](https://github.com/user-attachments/assets/face7226-8dda-4240-a832-cf78fa4ed272)
 <em><p align="center">The main application interface displaying real-time camera feed and tracking controls.</p></em>
 
-https://github.com/user-attachments/assets/933bea88-9c88-4968-a372-6004b4c6276e
+![Screenshot 2025-07-09 145149](https://github.com/user-attachments/assets/933bea88-9c88-4968-a372-6004b4c6276e)
 <em><p align="center">A closer look at the settings panel, showing various customization options for cursor behavior and highlighting.</p></em>
 
 ### 🎬 Video Demos
 
-https://github.com/user-attachments/assets/145d55e1-eaa2-4e72-8067-3e85a36fd763
+
+https://github.com/user-attachments/assets/bb4ce28e-ddbb-4923-886c-fa93e8eb3914
+
 <em><p align="center">See CursorViaCam's core head-tracking functionality in action.</p></em>
 
-https://github.com/user-attachments/assets/0b03a912-7c5f-444f-9312-06b324871a20
+
+https://github.com/user-attachments/assets/049119de-51fb-4f54-863d-8db9f2a09e9f
+
 <em><p align="center">A demonstration of the advanced cursor smoothing and Left-Click, Double-Click, Scrolling in play.</p></em>
 
-https://github.com/user-attachments/assets/b9d12e22-758e-4376-83c3-e6acaeaebef8
+
+https://github.com/user-attachments/assets/fc9d2e22-1c25-4436-9152-ab554b340ecb
+
 <em><p align="center">Exploring the visual cursor highlighter and its customizable appearance.</p></em>
 
-https://github.com/user-attachments/assets/9f21a4f5-7ce0-44a0-a119-5b5f91ea7d68
+
+https://github.com/user-attachments/assets/cd93c9ff-9fbe-40d4-bd3f-29e7b5ae4940
+
 <em><p align="center">Showcasing the Intractive Tutorial Feature.</p></em>
 
 ***
